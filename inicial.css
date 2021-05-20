@@ -1,0 +1,47 @@
+.cell
+{
+  margin: 0px 0px 0px 400px;
+}
+.perfil
+{
+    border-radius: 10px;
+    border: solid 1px;
+    background-color: rgb(131, 131, 131);
+    margin: 0px 0px 500px -430px;
+    height: 50px;
+    width: 50px;
+}
+.contato
+{
+    border-radius: 10px;
+    border: solid 1px;
+    background-color: rgb(131, 131, 131);
+    margin: 0px 0px 500px 20px;
+    height: 50px;
+    width: 50px;
+}
+.insta
+{
+    border-radius: 10px;
+    border: solid 1px;
+    background-color: rgb(131, 131, 131);
+    margin: 0px 0px 500px 20px;
+    height: 50px;
+    width: 50px;
+}
+.you
+{
+    border-radius: 10px;
+    border: solid 1px;
+    background-color: rgb(131, 131, 131);
+    margin: 0px 0px 400px -210px;
+    height: 50px;
+    width: 50px;
+}
+.botao
+{
+    border-radius: 30px;
+    margin: 0px 0px 45px 18px;
+    width:  60px;
+    height: 60px;
+}

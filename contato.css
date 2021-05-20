@@ -1,0 +1,28 @@
+*
+{
+    font-family: sans-serif;
+}
+.celll
+{
+  margin: 0px 0px 0px 400px;
+}
+form
+{
+    margin: -600px 0px 0px 550px;
+    color: linen;
+}
+td
+{
+    color: linen;
+}
+div.tres 
+{
+    position: relative;
+    width:56px;
+    height:50px;
+    border: 1px solid;
+    border-radius: 100px;
+    top: 143px;
+    left: 685px;
+    background-color: mintcream;
+    }

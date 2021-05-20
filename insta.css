@@ -1,0 +1,21 @@
+.cell
+{
+  margin: 0px 0px 0px 400px;
+}
+.instaa
+{
+    width: 370px;
+   margin: -620px 0px 175px 530px;
+   height: 533px;
+}
+div.tres 
+{
+    position: relative;
+    width:58px;
+    height:56px;
+    border: 1px solid;
+    border-radius: 100px;
+    top: -165px;
+    left: 684px;
+    background-color: mintcream;
+    }
